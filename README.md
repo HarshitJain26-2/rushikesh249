@@ -1,20 +1,128 @@
-# 💫 About Me:
-I’m a Software Engineering and Data Analytics student focused on building clean, logical systems and extracting meaningful insights from data.  <br>I enjoy working at the intersection of code and analytics—turning ideas and raw data into structured, scalable, and practical solutions.<br><br>🔭 I’m currently working on  <br>Designing and building student-level software systems and data-driven applications, with an emphasis on clean architecture, logic-first development, and real-world relevance.<br><br>👯 I’m looking to collaborate on  <br>Software engineering and data analytics projects that involve problem-solving, data interpretation, and building solutions with measurable impact.<br><br>🤝 I’m looking for help with  <br>Developing strong system design thinking, writing scalable and maintainable code, and improving analytical depth in data-driven solutions.<br><br>🌱 I’m currently learning  <br>Core software engineering principles, Python for data analysis, SQL, machine learning fundamentals, and applied statistics.<br><br>💬 Ask me about  <br>Python, C programming, GitHub workflows, beginner-friendly data analytics, project structuring, and learning technology efficiently as a student.<br><br>⚡ Fun fact  <br>I enjoy turning complex problems, messy data, and rough ideas into clean, structured, and usable systems.<br>
+<div align="center">
 
+# Rushikesh Ambhore
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ambhurerushikesh415@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikeshambhore50@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushikesh.ambhore24@vit.edu) 
+### AI Engineer · Backend Engineer · RAG & Vector Database Developer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rushikesh249&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rushikesh249&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh249&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=888888&center=true&vCenter=true&width=520&lines=Retrieval-Augmented+Generation+Systems;Vector+Search+%26+Embedding+Pipelines;LLM+Application+Development;B.Tech+CSE+(Data+Science)+%40+VIT+Pune" alt="typing-animation" />
 
-## 📌 Featured Projects
-- 🏥 **MediAssist-SmartCare** – AI-assisted healthcare system focused on data analysis and decision support  
-- 🔐 **CypherVault** – Secure data handling and encryption-focused application  
-- 🧠 **Next Word Predictor (LSTM)** – NLP-based sequence prediction using deep learning
+I work on the infrastructure layer under AI applications — vector search, retrieval pipelines, and the backend systems that hold them together.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://github.com/rushikesh249"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/REPLACE_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:REPLACE_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://REPLACE_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://REPLACE_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Sovereign Neural Core](https://github.com/rushikesh249/sovereign-neural-core)
+**C++ Vector Database & RAG Engine**
+
+Most vector databases hide their internals behind a managed API, which makes it hard to reason about retrieval quality. This is a vector store built from the ground up in C++, with similarity search, chunking, and an embedding pipeline exposed through a REST layer, plus benchmarks comparing retrieval latency and accuracy across index configurations.
+
+`C++` `REST APIs` `Embeddings` `Vector Search` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### [ShieldAI](https://github.com/rushikesh249/shieldai)
+**AI Digital Public Safety Platform**
+
+Fraud and scam detection models are often black boxes, which makes them hard to trust in a safety context. ShieldAI flags scams, counterfeit currency, and fraud networks while keeping every decision explainable, so a human reviewer can see why something was flagged, not just that it was.
+
+`Python` `Explainable AI` `REST APIs` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CypherVault](https://github.com/rushikesh249/cyphervault)
+**Zero-Knowledge Password Manager**
+
+Most password managers ask you to trust their server with your data. CypherVault is built on a zero-knowledge model — AES-256 encryption and PBKDF2 key derivation happen client-side, with WebAuthn and TOTP for authentication, so the server never sees a plaintext credential.
+
+`AES-256` `PBKDF2` `WebAuthn` `TOTP` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### [MediQ](https://github.com/rushikesh249/mediq)
+**AI Healthcare Assistant**
+
+Medical documents are dense and unstructured, which makes them hard for patients to act on. MediQ uses OCR to read scanned records and an LLM to reason over the extracted text, turning a lab report or prescription into a plain-language summary.
+
+`Python` `OCR` `LLM Reasoning` `Prompt Engineering`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Current Focus
+
+- Retrieval quality — chunking strategy and embedding choices, and how they affect what a RAG system actually retrieves
+- Vector search internals — indexing and similarity search performance at the systems level, in C++
+- Running LLMs locally with Ollama, for applications where sending data to a third-party API isn't an option
+
+<br/>
+
+## Currently Learning
+
+`Model Context Protocol (MCP)` · `Agentic AI` · `LLMOps` · `Distributed Systems`
+
+<br/>
+
+## Stack
+
+| | |
+|---|---|
+| **Languages** | `Python` `C++` `C` `TypeScript` `JavaScript` |
+| **AI / Retrieval** | `RAG` `Embeddings` `Vector Search` `Ollama` `Prompt Engineering` |
+| **Backend** | `Node.js` `Express.js` `REST APIs` `MongoDB` `Firebase` |
+| **Frontend** | `React` `Next.js` `Tailwind CSS` |
+| **Security** | `AES-256` `JWT` `WebAuthn` `TOTP` |
+| **Tooling** | `Git` `Linux` `Postman` `Vercel` `Netlify` |
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rushikesh249&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=e6e6e6&text_color=c9c9c9&icon_color=888888" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rushikesh249&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=333333&text_color=555555&icon_color=888888" height="165" alt="GitHub stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh249&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=e6e6e6&text_color=c9c9c9&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh249&layout=compact&hide_border=true&theme=default&bg_color=ffffff00&title_color=333333&text_color=555555&langs_count=6" height="165" alt="Top languages" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rushikesh249&theme=github-compact&hide_border=true&bg_color=00000000&color=c9c9c9&line=888888&point=e6e6e6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushikesh249&theme=minimal&hide_border=true&bg_color=ffffff00&color=333333&line=888888&point=333333" width="95%" alt="Contribution activity graph" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*B.Tech Computer Science & Engineering (Data Science) · Vishwakarma Institute of Technology, Pune · 2024–2028 · CGPA 8.95*
+
+</div>
