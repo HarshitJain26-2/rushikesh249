@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 680" width="100%" role="img" aria-label="AI specializations and active projects">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#233554" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#112240" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#64FFDA" stop-opacity="0.1"/>
+      <stop offset="50%" stop-color="#64FFDA" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#BD93F9" stop-opacity="0.1"/>
+    </linearGradient>
+    <filter id="cardGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .section-title { font-family: 'Consolas', monospace; fill: #64FFDA; font-size: 12px; letter-spacing: 3px; }
+    .card-title { font-family: 'Segoe UI', system-ui, sans-serif; fill: #E6F1FF; font-size: 13px; font-weight: 600; }
+    .card-desc { font-family: 'Segoe UI', system-ui, sans-serif; fill: #8892B0; font-size: 10px; }
+    .project-name { font-family: 'Segoe UI', system-ui, sans-serif; fill: #E6F1FF; font-size: 14px; font-weight: 700; }
+    .project-desc { font-family: 'Segoe UI', system-ui, sans-serif; fill: #8892B0; font-size: 11px; }
+    .project-tag { font-family: 'Consolas', monospace; fill: #64FFDA; font-size: 9px; }
+  </style>
+
+  <!-- Canvas -->
+  <rect width="900" height="680" rx="12" fill="#0A192F" stroke="#233554" stroke-width="1"/>
+
+  <!-- Section: Specializations -->
+  <text x="450" y="32" text-anchor="middle" class="section-title">AI SPECIALIZATIONS</text>
+  <line x1="300" y1="42" x2="600" y2="42" stroke="#233554" stroke-width="0.5"/>
+
+  <!-- Specialization cards grid 5x2 -->
+  <!-- Row 1 -->
+  <g transform="translate(24, 56)">
+    <rect width="158" height="72" rx="10" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5">
+      <animate attributeName="stroke" values="#233554;#64FFDA;#233554" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="158" height="2" rx="1" fill="url(#cardBorder)" y="0"/>
+    <circle cx="16" cy="22" r="3" fill="#64FFDA" filter="url(#cardGlow)"/>
+    <text x="28" y="26" class="card-title">Generative AI</text>
+    <text x="16" y="48" class="card-desc">LLMs � Diffusion �</text>
+    <text x="16" y="60" class="card-desc">Multimodal Systems</text>
+  </g>
+
+  <g transform="translate(194, 56)">
+    <rect width="158" height="72" rx="10" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5">
+      <animate attributeName="stroke" values="#233554;#64FFDA;#233554" dur="6s" begin="1s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="158" height="2" rx="1" fill="url(#cardBorder)" y="0"/>
+    <circle cx="16" cy="22" r="3" fill="#BD93F9" filter="url(#cardGlow)"/>
+    <text x="28" y="26" class="card-title">AI Agents</text>
+    <text x="16" y="48" class="card-desc">Autonomous � Tool-use �</text>
+    <text x="16" y="60" class="card-desc">Multi-step Reasoning</text>
+  </g>
+
+  <g transform="translate(364, 56)">
+    <rect width="158" height="72" rx="10" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5">
+      <animate attributeName="stroke" values="#233554;#64FFDA;#233554" dur="6s" begin="2s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="158" height="2" rx="1" fill="url(#cardBorder)" y="0"/>
+    <circle cx="16" cy="22" r="3" fill="#64FFDA" filter="url(#cardGlow)"/>
+    <text x="28" y="26" class="card-title">RAG</text>
+    <text x="16" y="48" class="card-desc">Retrieval Augmented</text>
+    <text x="16" y="60" class="card-desc">Generation Pipelines</text>
+  </g>
+
+  <g transform="translate(534, 56)">
+    <rect width="158" height="72" rx="10" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5">
+      <animate attributeName="stroke" values="#233554;#64FFDA;#233554" dur="6s" begin="3s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="158" height="2" rx="1" fill="url(#cardBorder)" y="0"/>
+    <circle cx="16" cy="22" r="3" fill="#BD93F9" filter="url(#cardGlow)"/>
+    <text x="28" y="26" class="card-title">Prompt Engineering</text>
+    <text x="16" y="48" class="card-desc">Chain-of-Thought �</text>
+    <text x="16" y="60" class="card-desc">Structured Outputs</text>
+  </g>
+
+  <g transform="translate(704, 56)">
+    <rect width="172" height="72" rx="10" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5">
+      <animate attributeName="stroke" values="#233554;#64FFDA;#233554" dur="6s" begin="4s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="172" height="2" rx="1" fill="url(#cardBorder)" y="0"/>
+    <circle cx="16" cy="22" r="3" fill="#64FFDA" filter="url(#cardGlow)"/>
+    <text x="28" y="26" class="card-title">Vector Search</text>
+    <text x="16" y="48" class="card-desc">Embeddings � ANN �</text>
+    <text x="16" y="60" class="card-desc">Similarity Retrieval</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(24, 144)">
+    <rect width="158" height="72" rx="10" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5"/>
+    <rect width="158" height="2" rx="1" fill="url(#cardBorder)" y="0"/>
+    <circle cx="16" cy="22" r="3" fill="#64FFDA"/>
+    <text x="28" y="26" class="card-title">Semantic Search</text>
+    <text x="16" y="48" class="card-desc">Dense Retrieval �</text>
+    <text x="16" y="60" class="card-desc">Hybrid Ranking</text>
+  </g>
+
+  <g transform="translate(194, 144)">
+    <rect width="158" height="72" rx="10" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5"/>
+    <rect width="158" height="2" rx="1" fill="url(#cardBorder)" y="0"/>
+    <circle cx="16" cy="22" r="3" fill="#BD93F9"/>
+    <text x="28" y="26" class="card-title">Backend Engineering</text>
+    <text x="16" y="48" class="card-desc">APIs � Microservices �</text>
+    <text x="16" y="60" class="card-desc">Scalable Services</text>
+  </g>
+
+  <g transform="translate(364, 144)">
+    <rect width="158" height="72" rx="10" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5"/>
+    <rect width="158" height="2" rx="1" fill="url(#cardBorder)" y="0"/>
+    <circle cx="16" cy="22" r="3" fill="#64FFDA"/>
+    <text x="28" y="26" class="card-title">Distributed Systems</text>
+    <text x="16" y="48" class="card-desc">Fault Tolerance �</text>
+    <text x="16" y="60" class="card-desc">Horizontal Scale</text>
+  </g>
+
+  <g transform="translate(534, 144)">
+    <rect width="158" height="72" rx="10" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5"/>
+    <rect width="158" height="2" rx="1" fill="url(#cardBorder)" y="0"/>
+    <circle cx="16" cy="22" r="3" fill="#BD93F9"/>
+    <text x="28" y="26" class="card-title">LLMOps</text>
+    <text x="16" y="48" class="card-desc">Monitoring � Eval �</text>
+    <text x="16" y="60" class="card-desc">Model Deployment</text>
+  </g>
+
+  <g transform="translate(704, 144)">
+    <rect width="172" height="72" rx="10" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5"/>
+    <rect width="172" height="2" rx="1" fill="url(#cardBorder)" y="0"/>
+    <circle cx="16" cy="22" r="3" fill="#64FFDA"/>
+    <text x="28" y="26" class="card-title">System Design</text>
+    <text x="16" y="48" class="card-desc">Architecture � Trade-offs �</text>
+    <text x="16" y="60" class="card-desc">Production Patterns</text>
+  </g>
+
+  <!-- Section: Projects -->
+  <text x="450" y="260" text-anchor="middle" class="section-title">ACTIVE PROJECTS</text>
+  <line x1="320" y1="270" x2="580" y2="270" stroke="#233554" stroke-width="0.5"/>
+
+  <!-- Project cards 2x2 -->
+  <g transform="translate(24, 288)">
+    <rect width="410" height="170" rx="12" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5"/>
+    <rect width="410" height="3" rx="1" fill="#64FFDA" opacity="0.5" y="0"/>
+    <rect x="16" y="16" width="48" height="48" rx="10" fill="#112240" stroke="#64FFDA" stroke-width="0.5" opacity="0.8"/>
+    <text x="40" y="46" text-anchor="middle" class="project-tag" font-size="16" fill="#64FFDA">SN</text>
+    <text x="80" y="36" class="project-name">Sovereign Neural Core</text>
+    <text x="80" y="56" class="project-desc">C++ Vector Database &amp; RAG Engine</text>
+    <line x1="16" y1="78" x2="394" y2="78" stroke="#233554" stroke-width="0.5"/>
+    <text x="16" y="100" class="card-desc">High-performance vector indexing, semantic</text>
+    <text x="16" y="114" class="card-desc">retrieval, and RAG pipeline orchestration for</text>
+    <text x="16" y="128" class="card-desc">production-scale AI workloads.</text>
+    <text x="16" y="154" class="project-tag">C++ � VECTOR DB � RAG � EMBEDDINGS</text>
+    <circle cx="394" cy="154" r="4" fill="#64FFDA" opacity="0.8">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(466, 288)">
+    <rect width="410" height="170" rx="12" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5"/>
+    <rect width="410" height="3" rx="1" fill="#BD93F9" opacity="0.5" y="0"/>
+    <rect x="16" y="16" width="48" height="48" rx="10" fill="#112240" stroke="#BD93F9" stroke-width="0.5" opacity="0.8"/>
+    <text x="40" y="46" text-anchor="middle" class="project-tag" font-size="16" fill="#BD93F9">SA</text>
+    <text x="80" y="36" class="project-name">ShieldAI</text>
+    <text x="80" y="56" class="project-desc">AI Public Safety Intelligence Platform</text>
+    <line x1="16" y1="78" x2="394" y2="78" stroke="#233554" stroke-width="0.5"/>
+    <text x="16" y="100" class="card-desc">Real-time threat detection and situational</text>
+    <text x="16" y="114" class="card-desc">awareness powered by multimodal AI and</text>
+    <text x="16" y="128" class="card-desc">geospatial analytics.</text>
+    <text x="16" y="154" class="project-tag">PYTHON � FASTAPI � CV � AGENTS</text>
+    <circle cx="394" cy="154" r="4" fill="#BD93F9" opacity="0.8">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(24, 474)">
+    <rect width="410" height="170" rx="12" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5"/>
+    <rect width="410" height="3" rx="1" fill="#64FFDA" opacity="0.5" y="0"/>
+    <rect x="16" y="16" width="48" height="48" rx="10" fill="#112240" stroke="#64FFDA" stroke-width="0.5" opacity="0.8"/>
+    <text x="40" y="46" text-anchor="middle" class="project-tag" font-size="14" fill="#64FFDA">CV</text>
+    <text x="80" y="36" class="project-name">CypherVault</text>
+    <text x="80" y="56" class="project-desc">Zero Knowledge Password Manager</text>
+    <line x1="16" y1="78" x2="394" y2="78" stroke="#233554" stroke-width="0.5"/>
+    <text x="16" y="100" class="card-desc">End-to-end encrypted credential vault with</text>
+    <text x="16" y="114" class="card-desc">zero-knowledge architecture and client-side</text>
+    <text x="16" y="128" class="card-desc">cryptographic guarantees.</text>
+    <text x="16" y="154" class="project-tag">TYPESCRIPT � CRYPTO � SECURITY � REACT</text>
+    <circle cx="394" cy="154" r="4" fill="#64FFDA" opacity="0.8">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(466, 474)">
+    <rect width="410" height="170" rx="12" fill="url(#cardBg)" stroke="#233554" stroke-width="0.5"/>
+    <rect width="410" height="3" rx="1" fill="#BD93F9" opacity="0.5" y="0"/>
+    <rect x="16" y="16" width="48" height="48" rx="10" fill="#112240" stroke="#BD93F9" stroke-width="0.5" opacity="0.8"/>
+    <text x="40" y="46" text-anchor="middle" class="project-tag" font-size="16" fill="#BD93F9">MQ</text>
+    <text x="80" y="36" class="project-name">MediQ</text>
+    <text x="80" y="56" class="project-desc">AI Healthcare Assistant</text>
+    <line x1="16" y1="78" x2="394" y2="78" stroke="#233554" stroke-width="0.5"/>
+    <text x="16" y="100" class="card-desc">Clinical decision support and patient triage</text>
+    <text x="16" y="114" class="card-desc">assistant with RAG over medical knowledge</text>
+    <text x="16" y="128" class="card-desc">bases.</text>
+    <text x="16" y="154" class="project-tag">LLM � RAG � HEALTHCARE AI � FASTAPI</text>
+    <circle cx="394" cy="154" r="4" fill="#BD93F9" opacity="0.8">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

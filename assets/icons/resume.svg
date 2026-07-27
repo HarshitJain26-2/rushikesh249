@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Resume">
+  <defs>
+    <linearGradient id="iconBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#233554" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#112240" stop-opacity="0.4"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="url(#iconBg)" stroke="#233554" stroke-width="0.5"/>
+  <rect width="48" height="48" rx="12" fill="none" stroke="#64FFDA" stroke-width="0.5" opacity="0.2"/>
+  <path d="M16 10h12l4 4v24a2 2 0 01-2 2H16a2 2 0 01-2-2V12a2 2 0 012-2z" fill="none" stroke="#64FFDA" stroke-width="1.5" filter="url(#glow)"/>
+  <path d="M28 10v4h4" fill="none" stroke="#64FFDA" stroke-width="1.5"/>
+  <line x1="18" y1="24" x2="30" y2="24" stroke="#BD93F9" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="18" y1="28" x2="30" y2="28" stroke="#8892B0" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="18" y1="32" x2="26" y2="32" stroke="#8892B0" stroke-width="1.2" stroke-linecap="round"/>
+</svg>
